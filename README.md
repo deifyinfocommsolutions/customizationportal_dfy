@@ -1,2 +1,1 @@
-# customizationportal_dfy
-Customization Portal from iBeads
+Customizations Portal for ibeads
